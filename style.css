@@ -237,7 +237,7 @@ h1{
     .hero-yellow{
       
         flex:1;
-        background-color:var(--yellow);
+        background-color:white;
         border-radius: 30px;
         padding:0px 30px;
         display: flex;
